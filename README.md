@@ -1,2 +1,2 @@
-# C-UE4
+# Battle Tank
 Open World Tank fight against simple AI
